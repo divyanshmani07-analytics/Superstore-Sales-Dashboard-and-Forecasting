@@ -156,7 +156,7 @@ Users can dynamically explore data through slicers and filters.
 
 ---
 ScrennShots: https://github.com/divyanshmani07-analytics/Superstore-Sales-Dashboard-and-Forecasting/blob/main/SuperStore%20Dashboard.png
-Example: https://github.com/divyanshmani07-analytics/Superstore-Sales-Dashboard-and-Forecasting/blob/main/SuperStore%20Dashboard.png
+
 
 
 
