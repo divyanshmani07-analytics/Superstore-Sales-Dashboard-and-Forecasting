@@ -1,6 +1,6 @@
-# 📊 SuperStore Sales Dashboard & Sales Forecasting
+# SuperStore Sales Dashboard & Sales Forecasting
 
-## 🚀 Project Overview
+## Project Overview
 
 This project presents an end-to-end Business Intelligence solution developed using Power BI to analyze SuperStore sales performance and forecast future sales trends. The dashboard transforms raw transactional data into actionable business insights through interactive visualizations, KPI tracking, and predictive analytics.
 
@@ -8,7 +8,7 @@ The objective of this project is to help business stakeholders monitor sales per
 
 ---
 
-## 🎯 Project Purpose
+## Project Purpose
 
 Businesses generate large volumes of sales data every day. Without proper analysis, valuable insights remain hidden.
 
@@ -24,7 +24,7 @@ This dashboard was created to:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Data Visualization & BI
 
@@ -48,7 +48,7 @@ This dashboard was created to:
 
 ---
 
-## 📈 Key Features
+## Key Features
 
 ### Executive Sales Overview
 
@@ -93,7 +93,7 @@ This dashboard was created to:
 
 ---
 
-## 📊 KPIs Used
+## KPIs Used
 
 The dashboard tracks several important business metrics:
 
@@ -108,7 +108,7 @@ The dashboard tracks several important business metrics:
 
 ---
 
-## 🔍 Business Insights Generated
+## Business Insights Generated
 
 The dashboard helps answer critical business questions such as:
 
@@ -121,7 +121,7 @@ The dashboard helps answer critical business questions such as:
 
 ---
 
-## 📸 Dashboard Highlights
+## Dashboard Highlights
 
 ### Sales Trend Analysis
 
@@ -142,7 +142,7 @@ Users can dynamically explore data through slicers and filters.
 ---
 
 
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 
 * Business Analytics
 * Data Visualization
@@ -156,6 +156,7 @@ Users can dynamically explore data through slicers and filters.
 
 ---
 ScrennShots: https://github.com/divyanshmani07-analytics/Superstore-Sales-Dashboard-and-Forecasting/blob/main/SuperStore%20Dashboard.png
+Example: https://github.com/divyanshmani07-analytics/Superstore-Sales-Dashboard-and-Forecasting/blob/main/SuperStore%20Dashboard.png
 
 
 
