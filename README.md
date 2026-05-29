@@ -155,9 +155,17 @@ Users can dynamically explore data through slicers and filters.
 * Data Storytelling
 
 ---
-ScrennShots: https://github.com/divyanshmani07-analytics/Superstore-Sales-Dashboard-and-Forecasting/blob/main/SuperStore%20Dashboard.png
+## 6. Screenshots / Demos
 
+### Executive Sales Dashboard
 
+![Executive Dashboard]([https://github.com/divyanshmani07-analytics/Superstore-Sales-Dashboard-and-Forecasting/blob/main/SuperStore%20Dashboard.png?raw=true](https://github.com/divyanshmani07-analytics/Superstore-Sales-Dashboard-and-Forecasting/blob/main/SuperStore%20Dashboard.png))
+
+---
+
+### Sales Forecasting Dashboard
+
+![Forecasting Dashboard]([https://github.com/divyanshmani07-analytics/Superstore-Sales-Dashboard-and-Forecasting/blob/main/Sales%20Forecasting.png?raw=true](https://github.com/divyanshmani07-analytics/Superstore-Sales-Dashboard-and-Forecasting/blob/main/SuperStore%20Dashboard.png))
 
 
 This project demonstrates how Business Intelligence tools can be used to convert raw sales data into actionable insights, enabling organizations to improve operational performance, increase profitability, and make informed strategic decisions.
